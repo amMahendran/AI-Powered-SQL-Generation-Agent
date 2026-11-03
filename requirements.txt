@@ -1,0 +1,10 @@
+ollama
+pandas
+psycopg[binary]
+sqlalchemy
+sqlglot
+python-dotenv
+langchain
+deepagents
+langchain-google-genai
+langchain-ollama
